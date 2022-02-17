@@ -3,12 +3,12 @@
 ## 設定
 1. 仕入れ計算.exeフォルダの中に仕入れ計算.exeファイルがあるので、スタートにピン止め or タスクバーにピン止め or デスクトップにショートカットを作成してください。
 2. .envファイルのSLACK_URLのダブルクオーテーションの内側を自身のSLACK_URLに書き換えて下さい。
-SLACK_URLの確認方法  http://shimadays.com/2021/05/24/python-slack-notification/
-1. https://w1572504239-vx5393221.slack.com/apps/new/A0F7XDUAZ--incoming-webhook-　にアクセス
-2. チャンネルへの投稿のチャンネルを選択から自分を選ぶ
-3. Incoming webhook インテグレーションの追加をクリック
-4. ページが切り替わるのでセットアップの手順のすぐ下のwebhook urlのurlをコピーしてください。
-5. コピーしたrlを.envファイルをメモ帳で開いてダブルクオーテーションの間にペーストしてください。ctrl+sで保存して閉じてください。
+
+4. https://w1572504239-vx5393221.slack.com/apps/new/A0F7XDUAZ--incoming-webhook-　にアクセス
+5. チャンネルへの投稿のチャンネルを選択から自分を選ぶ
+6. Incoming webhook インテグレーションの追加をクリック
+7. ページが切り替わるのでセットアップの手順のすぐ下のwebhook urlのurlをコピーしてください。
+8. コピーしたrlを.envファイルをメモ帳で開いてダブルクオーテーションの間にペーストしてください。ctrl+sで保存して閉じてください。
 以上で設定は終了です。
 
 
